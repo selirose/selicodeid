@@ -1,5 +1,7 @@
 ## Hi there, Seli here 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selirose&repo=github-readme-stats)](https://github.com/selirose/github-readme-stats)
+
 ![selirose's GitHub stats](https://github-readme-stats.vercel.app/api?username=selirose&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selirose&layout=compact)](https://github.com/selirose/github-readme-stats)
