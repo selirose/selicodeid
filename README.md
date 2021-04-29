@@ -1,5 +1,7 @@
 ## Hi there, Seli here 👋
 
+![selirose's GitHub stats](https://github-readme-stats.vercel.app/api?username=selirose&hide=contribs,prs)
+
 ### A person who process oriented!
 - 🔭 New learner, tech enthusiast!
 - 🌱 I’m currently learning about javascript
