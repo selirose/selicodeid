@@ -1,6 +1,6 @@
 ## Hi there 
 👋
-![Hey](https://res.cloudinary.com/dnreeuxye/image/upload/v1619715412/Oranye_Sederhana_Minimalis_Lucu_Kartu_Pos_ai76om.jpg)
+![Hey](https://res.cloudinary.com/dnreeuxye/image/upload/v1619715673/seli_xztuqy.png)
 
 ### A person who process oriented!
 - 🔭 New learner, tech enthusiast!
